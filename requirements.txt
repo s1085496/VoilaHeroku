@@ -1,4 +1,7 @@
 voila
 geemap
 leafmap
+ipywidgets
+ipyscales
+earthengine-api
 Jinja2==3.0.3
